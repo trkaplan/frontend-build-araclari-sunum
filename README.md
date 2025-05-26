@@ -4,6 +4,15 @@ Bu proje, modern frontend geliştirme süreçlerinde kullanılan build araçlar�
 
 ---
 
+## Sunum Linki
+
+Sunumun güncel haline buradan ulaşabilirsin:  
+👉 [https://trkaplan.github.io/frontend-build-araclari-sunum/](https://trkaplan.github.io/frontend-build-araclari-sunum/)
+
+> **Not:** Sunumu konuşmacı notlarıyla birlikte görmek için, sayfanın altındaki **Presenter** butonuna tıklayabilirsin.
+
+--- 
+
 ## İçerik
 
 - Sunumun Amacı ve Gündem
@@ -121,5 +130,3 @@ https://<kullanici-adi>.github.io/<repo-adi>/
 ```
 
 (Adresini kendi kullanıcı ve repo adına göre güncelle!)
-
---- 
